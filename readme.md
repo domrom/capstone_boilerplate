@@ -46,10 +46,10 @@ make sure that you are in your virtual env
     chalice local 
 ```
 local endpoints are 
-http://127.0.0.1:8000
-http://127.0.0.1:8000/Matt
-http://127.0.0.1:8000/Isaac
-http://127.0.0.1:8000/Seann 
+###### http://127.0.0.1:8000
+###### http://127.0.0.1:8000/Matt
+###### http://127.0.0.1:8000/Isaac
+###### http://127.0.0.1:8000/Seann 
 
 control C to shutdown local serverless
 
