@@ -1,0 +1,3 @@
+#folders for deployment
+CapstoneBoilerplate/.chalice/deployed
+CapstoneBoilerplate/.chalice/deployments
