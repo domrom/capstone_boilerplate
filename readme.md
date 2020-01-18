@@ -20,7 +20,7 @@ pipenv install chalice
 ```bash
 pipenv shell
 ```
-expected behavior is to add the name of your project inside parenthisis to your prompt
+expected behavior is to add the name of your project inside parenthisis to your prompt\
 example: (capstone_boilerplate) bash-3.2$ 
 
 ### create orchestratin layer 
